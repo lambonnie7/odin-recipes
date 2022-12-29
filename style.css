@@ -1,0 +1,18 @@
+.breakfast-ingredients {
+    color: #750bb3;
+}
+
+.breakfast-steps {
+    color: #e68f25;
+}
+
+.bolognese {
+    background-color: bisque;
+    font-size: 20px;
+    font-family: Courier, sans-serif;
+}
+
+.img-breakfast {
+    height: auto;
+    width: 400px;
+}
